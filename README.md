@@ -15,3 +15,5 @@
 ![alt text](https://github.com/dhiman-A/PowerBI_Dashboards/blob/main/HR%20Dashboard/image_2.png?raw=true)
 
 ![alt text](https://github.com/dhiman-A/PowerBI_Dashboards/blob/main/HR%20Dashboard/image_3.png?raw=true)
+
+![alt text](https://github.com/dhiman-A/PowerBI_Dashboards/blob/main/Salaries%20for%20Data%20Science%20Roles/final_dashboard.png?raw=true)
